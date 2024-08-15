@@ -1,0 +1,49 @@
+{
+    "title": "Luci",
+    "subtitle": "Análise e Desenvolvimento de Sistemas",
+    "description": "おはよう! Meu nome é Luci, sou uma Analista de Sistemas e Desenvolvedora Backend com forte foco em programação de baixo nível e práticas de cibersegurança.",
+    "githubButton": "Github",
+    "aboutMeButton": "Sobre Mim",
+    
+    "ME": {
+      "WHOAMI": "whoami",
+      "JOURNEY": "7 anos e um Core™2 Duo P8400. Foi assim que comecei,<br>Em uma terra desconhecida e uma língua estrangeira, minha curiosidade interminável me guiou em uma busca para entender <span class='highlight'>\"Como isso funciona?\"</span>.<br>Lá, comecei a aprender sobre hardware e software, iniciando meus estudos na linguagem [C]. Buscando algo mais visual, estudei [Lua], [HTML/CSS/JS], [Java] e [Python]<br><br> Cresci nos anos 2000, e vi a tecnologia dominar o planeta, muitas vezes de uma forma <span class='danger'>pouco organizada</span>, onde comecei a notar o quão vulnerável e perigoso um sistema mal planejado pode ser.<br>Esso foi o início do meu interesse por <span class='cybersec'>Cibersegurança</span>, que acredito ser essencial no <span class='future'>futuro totalmente conectado para o qual estamos caminhando.</span>",
+      "UNAME": "uname -a",
+      "LOCATION": {
+        "TITLE": "Localização",
+        "VALUE": "Brasil"
+      },
+      "GRADUATION": {
+        "TITLE": "Formação",
+        "VALUE": "Análise e Desenvolvimento de Sistemas"
+      },
+      "LANGUAGES": {
+        "TITLE": "Idiomas",
+        "VALUE": "Português (Nativo), Inglês (C1), Espanhol (Int.), Japonês (Básico)"
+      }
+    },
+    "TECHNOLOGIES": {
+    "TITLE": "Alguns dos meus interesses. Clique nos cartões!"
+  },
+    "buttons": {
+    "Development": "Desenvolvimento",
+    "DevelopmentDesc": "Tecnologias Front-End e Back-end, Frameworks web",
+    "CyberSecurity": "Cibersegurança",
+    "CyberSecurityDesc": "Documentação e Proteção de Sistemas Digitais",
+    "Databases": "Bancos de Dados",
+    "DatabasesDesc": "Sistemas de gerenciamento de banco de dados, SQL, NoSQL"
+  },
+    "contact": {
+    "contactTitle": "Formas de Contato",
+    "githubTitle": "GitHub",
+    "githubDescription": "Meus projetos!",
+    "linkedinTitle": "LinkedIn",
+    "linkedinDescription": "Para se conectar",
+    "mailTitle": "E-mail",
+    "mailDescription": "Envie um email",
+    "unavailableTitle": "Indisponível",
+    "unavailableDescription": "Em Breve",
+    "accessButton": "Acessar",
+    "thanksButton": "Obrigada pela visita!"
+  }
+  }

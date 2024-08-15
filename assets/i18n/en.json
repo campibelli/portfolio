@@ -1,0 +1,51 @@
+{
+    "title": "Luci",
+    "subtitle": "System Analysis and Development",
+    "description": "おはよう! I'm Luci, I'm a passionate Systems Analyst and Backend Developer with a strong focus on low-level programming and cybersecurity practices.",
+    "githubButton": "Github",
+    "aboutMeButton": "About Me",
+    
+    "ME": {
+      "WHOAMI": "whoami",
+      "JOURNEY": "My journey started at age 7, in a Core™2 Duo P8400.<br>In an unfamiliar land and a foreign language, I had only my endless curiosity carrying me in a quest to understand <span class='highlight'>\"How does this work?\"</span>.<br>There, I started learning about hardware and software, with [C] as my first language. Trying to mix it with something I could \"see\" beyond the terminal, I've studied [Lua], [HTML/CSS/JS], [Java] and [Python]<br><br> Growing up in the 2000s, I've seen traditional countryside places becoming technologically connected to the world, sometimes in a <span class='danger'>unstructured</span> way, in which I've started to notice how vulnerable and dangerous a non-maintained system could be.<br>This was the start of my interest in <span class='cybersec'>Cybersecurity</span>, in which I see an important branch of the <span class='future'>fully-connected future we're heading to.</span>",
+      "UNAME": "uname -a",
+      "LOCATION": {
+        "TITLE": "Location",
+        "VALUE": "Brazil"
+      },
+      "GRADUATION": {
+        "TITLE": "Graduation",
+        "VALUE": "System Analysis and Development"
+      },
+      "LANGUAGES": {
+        "TITLE": "Languages",
+        "VALUE": "Portuguese (Native), English (C1), Spanish (Int.), Japanese (Basic)"
+      }
+    },
+
+      "TECHNOLOGIES": {
+        "TITLE": "Some of my interests. Click the cards!"
+      },
+    
+    "buttons": {
+    "Development": "Development",
+    "DevelopmentDesc": "Front-end and Back-end technologies, web frameworks",
+    "CyberSecurity": "CyberSecurity",
+    "CyberSecurityDesc": "Docummentation and Protection of systems",
+    "Databases": "Databases",
+    "DatabasesDesc": "Database management systems, SQL, NoSQL"
+  },
+    "contact": {
+    "contactTitle": "Contact Me!",
+    "githubTitle": "GitHub",
+    "githubDescription": "My projects!",
+    "linkedinTitle": "LinkedIn",
+    "linkedinDescription": "Let's connect.",
+    "mailTitle": "Mail",
+    "mailDescription": "Send me an email.",
+    "unavailableTitle": "Unavailable",
+    "unavailableDescription": "Currently Unavailable.",
+    "accessButton": "Access",
+    "thanksButton": "Thanks for your visit"
+  }
+  }
